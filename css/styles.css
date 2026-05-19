@@ -10,3 +10,13 @@
     padding: 70px;
     
 }
+
+.pratos img {
+    width: 180px;
+    height: 190px;
+    border-radius: 8px;
+}
+
+.pratos img:hover {
+    transform: scale(1.3);
+}
